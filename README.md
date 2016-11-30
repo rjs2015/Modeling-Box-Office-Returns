@@ -1,3 +1,3 @@
-Project 2 submission materials.
+## Modeling Weekly Box Office Returns
 
-Link to my github [here] (https://github.com/rjs2015/nyc16_ds9).
+A project using regression models to predict weekly movie revenue.
